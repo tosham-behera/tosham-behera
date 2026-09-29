@@ -1,16 +1,16 @@
-## Hi there 👋
+```markdown
+# $ whoami
 
-<!--
-**tosham-behera/tosham-behera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+tosham@workstation:~$ cat profile.json
+{
+  "name": "Tosham Behera",
+  "role": "Computer Science Undergrad & Software Builder",
+  "core_philosophy": "Solve at the foundation with C++, scale intelligence with Python & AI.",
+  "strengths": [
+    "Algorithmic problem-solving (DSA in modern C++)",
+    "LLM tool integration & Text-to-SQL agents (LangChain)",
+    "Backend REST APIs & Linux infrastructure"
+  ],
+  "status": "Engineering systems that survive edge cases."
+}
